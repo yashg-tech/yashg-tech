@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/yashg-tech">
-    <img src="https://komarev.com/ghpvc/?username=yashg-tech&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
+    
+<img src="https://komarev.com/ghpvc/?username=yashg-tech&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+
   </a>
   <a href="https://github.com/yashg-tech?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My%20Repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
@@ -133,7 +135,6 @@
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=yashg-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
