@@ -1,37 +1,157 @@
-<h1 align="center">Hi 👋, I'm Yash Goyal</h1>
-<h3 align="center">Full Stack Developer Intern | Building Web Applications & AI-Powered Solutions</h3>
+# 👋 Hi, I'm Yash Goyal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashg-tech&label=Profile%20views&color=0e75b6&style=flat" alt="yashg-tech" /> </p>
+### Full Stack Developer Intern | Building Web Applications & AI-Powered Solutions
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashg-tech" alt="yashg-tech" /></a> </p>
-
-- 🔭 I’m currently working on [DataGuard-MCP](https://github.com/yashg-tech/Dataguard-mcp)
-
-- 🌱 I’m currently learning **Backend Development, PostgreSQL, RAG & Model Context Protocol (MCP)**
-
-- 👯 I’m looking to collaborate on [FinIntel-AI](https://github.com/yashg-tech/FinIntel-AI)
-
-- 🤝 I’m looking for help with [FinIntel-AI](https://github.com/yashg-tech/FinIntel-AI)
-
-- 👨‍💻 All of my projects are available at [https://yashgtech.vercel.app/](https://yashgtech.vercel.app/)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **yashg4656@gmail.com**
-
-- ⚡ Fun fact **💡 I love turning complex technical concepts into practical projects and learning something new with every line of code.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yashgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashgoyal" height="30" width="40" /></a>
-<a href="https://instagram.com/yashg567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashg567" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+Intern;Building+with+React+%26+TypeScript;Backend+Development+%7C+PostgreSQL;Exploring+RAG+%26+Model+Context+Protocol" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/yashg-tech">
+    <img src="https://komarev.com/ghpvc/?username=yashg-tech&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/yashg-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashg-tech&show_icons=true&locale=en&layout=compact" alt="yashg-tech" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashg-tech&show_icons=true&locale=en" alt="yashg-tech" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashg-tech&" alt="yashg-tech" /></p>
+- 💻 Full Stack Developer Intern working on web applications and backend systems.
+- 🧠 Exploring AI engineering, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP).
+- 🗄️ Learning database design, PostgreSQL, API development, and system architecture.
+- 🛠️ Building **DataGuard MCP**, a PostgreSQL-focused guarded data analyst MCP project.
+- 📚 Believe in learning by building, debugging, and documenting real projects.
+- 🎯 Goal: Build reliable, scalable applications and grow as a software engineer.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c" alt="Programming languages" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mongodb" alt="Backend and databases" />
+</p>
+
+### AI, Developer Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" alt="Developer tools" />
+</p>
+
+**Currently exploring:** RAG pipelines, embeddings, vector search, MCP servers, and secure database access.
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ DataGuard MCP</h3>
+      <p>A PostgreSQL-focused MCP project exploring guarded database access and AI-assisted data analysis.</p>
+      <p><strong>Focus:</strong> Python · PostgreSQL · MCP · SQL safety</p>
+      <a href="https://github.com/yashg-tech/Dataguard-mcp">
+        <img src="https://img.shields.io/badge/View%20Repository-DataGuard%20MCP-0EA5E9?style=for-the-badge&logo=github" alt="DataGuard MCP repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 FinIntel AI</h3>
+      <p>An AI-powered finance application involving document processing, embeddings, and retrieval-augmented generation.</p>
+      <p><strong>Focus:</strong> Python · FastAPI · React · PostgreSQL · Qdrant</p>
+      <a href="https://github.com/yashg-tech/FinIntel-AI">
+        <img src="https://img.shields.io/badge/View%20Repository-FinIntel%20AI-2563EB?style=for-the-badge&logo=github" alt="FinIntel AI repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 Smart Expense Manager</h3>
+      <p>A Flask-based expense tracker with expense management and category-wise visualization.</p>
+      <p><strong>Focus:</strong> Python · Flask · HTML · CSS · Chart.js</p>
+      <a href="https://github.com/yashg-tech/smart-expense-manager">
+        <img src="https://img.shields.io/badge/View%20Repository-Expense%20Manager-0891B2?style=for-the-badge&logo=github" alt="Smart Expense Manager repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧮 Calculator API</h3>
+      <p>A REST API project for performing basic arithmetic operations through an API endpoint.</p>
+      <p><strong>Focus:</strong> TypeScript · Node.js · Express</p>
+      <a href="https://github.com/yashg-tech/Calculator-Api">
+        <img src="https://img.shields.io/badge/View%20Repository-Calculator%20API-4F46E5?style=for-the-badge&logo=github" alt="Calculator API repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/yashg-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/Discover-All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashg-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashg-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=yashg-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashg-tech&theme=tokyonight&utcOffset=5.5" alt="Productive time summary" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashg-tech&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=yashg-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yashgoyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yashgtech.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yashg4656@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/yashg567">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Turning ideas into code, challenges into learning, and learning into better software.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
