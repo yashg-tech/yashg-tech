@@ -115,10 +115,16 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashg-tech&theme=tokyonight&utcOffset=5.5" alt="Productive time summary" />
 </p>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashg-tech&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/yashg-tech">
+    <img
+      src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=yashg-tech&theme=dark&size=large"
+      alt="GitHub Contribution Activity"
+      width="98%"
+    />
+  </a>
 </p>
 
 ### 🏆 GitHub Trophies
